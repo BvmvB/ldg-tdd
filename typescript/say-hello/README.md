@@ -4,8 +4,10 @@ The “Hello, World” program is the first program you learn to write in many l
 
 ## Example Output
 
-> What is your name? Brian
-> Hello, Brian, nice to meet you!
+```
+What is your name? Brian
+Hello, Brian, nice to meet you!
+```
 
 ## Constraints
 
